@@ -1,7 +1,9 @@
 ## Como Acessar uma API do Twitter?
+<p>
 <img src="https://img.shields.io/badge/4.17.1-express-blue">
 <img src="https://img.shields.io/badge/2.2.11-twit-blue">
 <img src="https://img.shields.io/badge/2.0.3-nodemon-blue">
+</p>
 
 <img align="right" src="https://img.shields.io/badge/Owner-Diego Magalhães-critical">
 
